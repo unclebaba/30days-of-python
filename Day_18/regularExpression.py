@@ -14,9 +14,6 @@ distance = abs(furthest_points[1] - furthest_points[0])
 print(distance)
 
 
-
-
-
 ## Write a pattern which identifies if a string is a valid python variable
 
 # is_valid_variable('first_name') # True
